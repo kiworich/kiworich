@@ -6,6 +6,9 @@
   </div>
 <li>
  <b>Name:</b> Arthur</li>
+  17 y.o. fullstack developer & designer born in Russia.
+ 	Fully self-taught, currently studying JS.
+  	Freely speaking Russian & English.
 <li>
 <b>Loves:</b> anime, neko, FPS, phonk, hyperpop
 </li>
