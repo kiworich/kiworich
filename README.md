@@ -1,6 +1,6 @@
 <body>
 <div>
-<h1 align="center"> 😎 Hi, I'm a beginner developer 😎 </h1>
+<h1 align="center"> <img src="[https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif](https://media.tenor.com/ke1aPF5b_aEAAAAi/anime-neko.gif)"> 😎 Hi, I'm a beginner developer 😎 <img src="[https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif](https://media.tenor.com/ke1aPF5b_aEAAAAi/anime-neko.gif)"> </h1>
   <div align="center">
 <img src="https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif" height="165px" align="right">
   </div>
