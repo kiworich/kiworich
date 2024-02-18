@@ -1,6 +1,6 @@
 <body>
 <div>
-<h2 align="center"> 🦊 About 🦊 </h2>
+<h1 align="center"> 😎 Hi, I'm a beginner developer 😎 </h1>
   <div align="center">
 <img src="https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif" height="165px" align="right">
   </div>
