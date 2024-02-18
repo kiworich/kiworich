@@ -1,6 +1,6 @@
 <body>
 <div>
-
+<h1 align="center"> <img src="https://media.tenor.com/ke1aPF5b_aEAAAAi/anime-neko.gif" height='30px'>   Hi, I'm a beginner developer   <img src="https://media.tenor.com/ke1aPF5b_aEAAAAi/anime-neko.gif" height='30px'> <br><br></h1>
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="https://api.statusbadges.me/badge/status/301035790891352076"/> <img src="https://komarev.com/ghpvc/?username=nichind&color=9963B3" alt="watching_count" /><br>
 	<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-yae-miko/sticker_1.png?be529a633c95ff7c5e1c385f183f6ab2&d=200x200" width="280" height="280"/>
