@@ -1,6 +1,7 @@
 <body>
 <div>
 <h1 align="center"> <img src="https://media.tenor.com/ke1aPF5b_aEAAAAi/anime-neko.gif" height='30px'>   Hi, I'm a beginner developer   <img src="https://media.tenor.com/ke1aPF5b_aEAAAAi/anime-neko.gif" height='30px'> </h1>
+<br><br>
   <div align="center">
 <img src="https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif" height="165px" align="right">
   </div>
